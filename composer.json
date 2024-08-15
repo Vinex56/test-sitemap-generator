@@ -1,0 +1,21 @@
+{
+    "name": "vinex56/test-sitemap-generator",
+    "description": "test sitemap generator",
+    "type": "no",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vinex56\\TestSitemapGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinex56",
+            "email": "sanmorow@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "vinex56/sitemap-generator": "dev-master"
+    }
+}
